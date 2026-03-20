@@ -68,6 +68,7 @@ Plaintext
 ⚠️ Disclaimer
 
 Educational Purposes Only. This tool is created for educational and ethical cybersecurity research purposes only. Using this software to monitor devices without explicit permission is illegal and unethical. The developer is not responsible for any misuse of this tool.
+
 👨‍💻 Author
 
 Md. Rafiuzzaman Sowrov (i_am_iron_man)
